@@ -37,3 +37,5 @@ for _ in range(100):
     rick.forward(randint(1, 5))
     bob.forward(randint(1, 5))
     jil.forward(randint(1, 5))
+
+input("press to close")
